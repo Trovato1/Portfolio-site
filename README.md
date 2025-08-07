@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Ícaro Portfolio 🧑‍💻
+Jonathan Trovato Portfolio 🧑‍💻
 
 Welcome!
 This is my personal portfolio website where I showcase my skills, projects, and work approach. You’ll find examples of front-end, back-end, full-stack, and some fun side projects that I’ve built.
@@ -100,9 +100,9 @@ npm run start
 ✅ Built and deployed with Vercel:
 👉 https://icaro-site.vercel.app
 
-🔗 LinkedIn: in/icaroesr/
+🔗 LinkedIn: in/jonathan-trovato-7b063b203/
 
-🐙 GitHub: @icaroedu
+🐙 GitHub: @Trovato1
 
 Feel free to get in touch for collaboration, freelance opportunities, or just to say hi!
 =======
