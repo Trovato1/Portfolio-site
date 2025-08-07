@@ -1,110 +1,92 @@
-<<<<<<< HEAD
-Jonathan Trovato Portfolio 🧑‍💻
+# Jonathan Trovato Portfolio 🧑‍💻
 
-Welcome!
+Welcome!  
 This is my personal portfolio website where I showcase my skills, projects, and work approach. You’ll find examples of front-end, back-end, full-stack, and some fun side projects that I’ve built.
 
+---
 
-<img width="1260" height="606" alt="Portfolio" src="https://github.com/user-attachments/assets/dafb5c13-64ae-4a90-a9cf-572503101803" />
+![Portfolio](https://github.com/user-attachments/assets/dafb5c13-64ae-4a90-a9cf-572503101803)
 
+---
 
-📑 Table of Contents
-About the Site
+## 🏗️ About the Site
 
-Built With
-
-Key Features
-
-My Skills
-
-Highlighted Projects
-
-Getting Started Locally
-
-Contact & Connect
-
-License
-
-🏗️ About the Site
-This portfolio is a clean and responsive web application designed to look great on both desktop and mobile devices.
+This portfolio is a clean and responsive web application designed to look great on both desktop and mobile devices.  
 I built it from scratch to:
 
-Present my skills and projects
+- Present my skills and projects  
+- Share my approach to web development  
+- Make it easy for people to contact or connect with me  
 
-Share my approach to web development
+---
 
-Make it easy for people to contact or connect with me
+## 🛠️ Built With
 
-🛠️ Built With
-HTML5 — Semantic structure & SEO optimization
+- HTML5 — Semantic structure & SEO optimization  
+- SASS — Modular and maintainable styles  
+- JavaScript (ES6+) — Interactivity and dynamic elements  
+- (Optional: Next.js, React, PHP, Node.js — include if used)  
 
-SASS — Modular and maintainable styles
+---
 
-JavaScript (ES6+) — Interactivity and dynamic elements
+## ⭐ Key Features
 
-(Optional: Next.js, React, PHP, Node.js — include if used)
+- Responsive Design — Adapts smoothly to all screen sizes  
+- Smooth Scrolling & Navigation  
+- Clean SASS Architecture — Modular and organized styles  
+- Modern JavaScript — Structured and maintainable code  
+- (Optional: Dark mode, animations, form validations, etc.)  
 
-⭐ Key Features
-Responsive Design — Adapts smoothly to all screen sizes
+---
 
-Smooth Scrolling & Navigation
+## 📚 My Skills
 
-Clean SASS Architecture — Modular and organized styles
+### Front-End
 
-Modern JavaScript — Structured and maintainable code
+- HTML5  
+- CSS3 / SASS  
+- JavaScript (ES6+)  
+- Responsive Layouts  
 
-(Optional: Dark mode, animations, form validations, etc.)
+### Back-End
 
-📚 My Skills
-Front-End
-HTML5
+- (Optional: PHP, MySQL, REST APIs)  
 
-CSS3 / SASS
+### Tools & Frameworks
 
-JavaScript (ES6+)
+- (Optional: React, Bootstrap, Node.js, Figma, Git)  
 
-Responsive Layouts
+*(Customize this section based on the actual tools you use.)*
 
-Back-End
-(Optional: PHP, MySQL, REST APIs)
+---
 
-Tools & Frameworks
-(Optional: React, Bootstrap, Node.js, Figma, Git)
+## 🔍 Highlighted Projects
 
-(Customize this section based on the actual tools you use.)
-
-🔍 Highlighted Projects
-🛒 Vegan Shop
+### 🛒 Vegan Shop  
 A polished e-commerce landing page built using HTML, SASS, and JavaScript. Features responsive design and clean layout.
 
-🔗 API Collection
+### 🔗 API Collection  
 A multi-tool web app using PHP, CSS, Bootstrap that integrates multiple APIs like Google Books, PokeAPI, and CoinGecko.
 
-✂️ URL Shortener
+### ✂️ URL Shortener  
 A custom PHP/MySQL-based tool with a Bootstrap interface. It allows users to generate short links and track usage statistics.
 
-(Add more projects with 2–3 lines each, only the most relevant ones.)
+*(Add more projects with 2–3 lines each, only the most relevant ones.)*
 
-🚀 Getting Started Locally
+---
+
+## 🚀 Getting Started Locally
+
 To run this project locally:
 
+```bash
 # Clone the repository
-git clone https://github.com/icaroedu/portfolio.git
-cd portfolio
+git clone https://github.com/Trovato1/Portfolio-site.git
+cd Portfolio-site
 
 # Install dependencies (if any)
 npm install
 
 # Run the development server
 npm run start
-✅ Built and deployed with Vercel:
-👉 https://icaro-site.vercel.app
 
-🔗 LinkedIn: in/jonathan-trovato-7b063b203/
-
-🐙 GitHub: @Trovato1
-
-Feel free to get in touch for collaboration, freelance opportunities, or just to say hi!
-=======
-# Portfolio-site
->>>>>>> fab5ad532788dbfa5665e5d4ce6d7018da373dc7
