@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ícaro Portfolio 🧑‍💻
 
 Welcome!
@@ -104,3 +105,6 @@ npm run start
 🐙 GitHub: @icaroedu
 
 Feel free to get in touch for collaboration, freelance opportunities, or just to say hi!
+=======
+# Portfolio-site
+>>>>>>> fab5ad532788dbfa5665e5d4ce6d7018da373dc7
