@@ -5,7 +5,7 @@ This is my personal portfolio website where I showcase my skills, projects, and 
 
 ---
 
-![Portfolio](https://github.com/user-attachments/assets/dafb5c13-64ae-4a90-a9cf-572503101803)
+![Portfolio](https://github.com/user-attachments/assets/e05d4f6f-9228-4f4c-a72e-2a5483d82cf8)
 
 ---
 
