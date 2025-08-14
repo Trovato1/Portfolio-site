@@ -41,8 +41,7 @@ HTML5 — Estrutura semântica e otimização de SEO
 
 JavaScript (ES6+) — Interatividade e elementos dinâmicos
 
-(Opcional: Next.js, React, PHP, Node.js — incluir se necessário)
-
+Next.js, React, PHP, Node.js
 
 ⭐ Principais Recursos
 Design Responsivo — Adapta-se perfeitamente a todos os tamanhos de tela
@@ -52,8 +51,6 @@ Rolagem e Navegação Suaves
 Arquitetura SASS Limpa — Estilos modulares e organizados
 
 JavaScript Moderno — Código estruturado e de fácil manutenção
-
-(Opcional: Modo escuro, animações, validações de formulários, etc.)
 
 
 📚 Minhas Habilidades
@@ -73,37 +70,9 @@ Ferramentas e Frameworks
 React, Bootstrap, Node.js, Figma, Git
 
 
-🔍 Projetos em Destaque
-🛒 Loja Vegana
-Uma landing page de e-commerce sofisticada, construída com HTML, SASS e JavaScript. Apresenta design responsivo e layout limpo.
+🔗 LinkedIn: in/jonathan-trovato-7b063b203
 
-🔗 Coleção de APIs
-Um aplicativo web multiferramentas que utiliza PHP, CSS e Bootstrap e integra diversas APIs, como Google Livros, PokeAPI e CoinGecko.
-
-✂️ Encurtador de URL
-Uma ferramenta personalizada baseada em PHP/MySQL com interface Bootstrap. Permite aos usuários gerar links curtos e acompanhar estatísticas de uso.
-
-
-🚀 Começando Localmente
-Para executar este projeto localmente:
-
-# Clonar o repositório
-git clone https://github.com/icaroedu/portfolio.git
-cd portfolio
-
-# Instalar dependências (se houver)
-npm install
-
-# Executar o servidor de desenvolvimento
-npm run start
-✅ Construído e implantado com Vercel:
-👉 https://icaro-site.vercel.app
-
-🔗 LinkedIn: in/icaroesr/
-
-🐙 GitHub: @icaroedu
+🐙 GitHub: @trovato1
 
 Sinta-se à vontade para entrar em contato para colaboração, oportunidades de freelancer ou apenas para dizer oi!
 =======
-# Portfolio-site
->>>>>>> fab5ad532788dbfa5665e5d4ce6d7018da373dc7
