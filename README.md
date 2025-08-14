@@ -1,110 +1,109 @@
-<<<<<<< HEAD
-Ícaro Portfolio 🧑‍💻
+Portfolio Jonathan 🧑‍💻
 
-Welcome!
-This is my personal portfolio website where I showcase my skills, projects, and work approach. You’ll find examples of front-end, back-end, full-stack, and some fun side projects that I’ve built.
+Bem-vindo!
+Este é o meu portfólio pessoal, onde mostro minhas habilidades, projetos e abordagem de trabalho. Você encontrará exemplos de projetos front-end, back-end, full-stack e alguns projetos paralelos divertidos que desenvolvi.
 
-
-<img width="1260" height="606" alt="Portfolio" src="https://github.com/user-attachments/assets/dafb5c13-64ae-4a90-a9cf-572503101803" />
+<img width="1373" height="743" alt="image" src="https://github.com/user-attachments/assets/3f0308de-e641-439f-87e4-1776f4aa4022" />
 
 
-📑 Table of Contents
-About the Site
 
-Built With
+📑 Índice
+Sobre o Site
 
-Key Features
+Construído com
 
-My Skills
+Principais Recursos
 
-Highlighted Projects
+Minhas Habilidades
 
-Getting Started Locally
+Projetos em Destaque
 
-Contact & Connect
+Começando Localmente
 
-License
+Contato e Conexão
 
-🏗️ About the Site
-This portfolio is a clean and responsive web application designed to look great on both desktop and mobile devices.
-I built it from scratch to:
+Licença
 
-Present my skills and projects
 
-Share my approach to web development
+🏗️ Sobre o Site
+Este portfólio é um aplicativo web limpo e responsivo, projetado para ter uma ótima aparência em dispositivos desktop e móveis.
+Eu o criei do zero para:
 
-Make it easy for people to contact or connect with me
+Apresentar minhas habilidades e projetos
 
-🛠️ Built With
-HTML5 — Semantic structure & SEO optimization
+Compartilhar minha abordagem de desenvolvimento web
 
-SASS — Modular and maintainable styles
+Facilitar o contato ou a conexão entre as pessoas
 
-JavaScript (ES6+) — Interactivity and dynamic elements
 
-(Optional: Next.js, React, PHP, Node.js — include if used)
+🛠️ Desenvolvido com
+HTML5 — Estrutura semântica e otimização de SEO
 
-⭐ Key Features
-Responsive Design — Adapts smoothly to all screen sizes
+JavaScript (ES6+) — Interatividade e elementos dinâmicos
 
-Smooth Scrolling & Navigation
+(Opcional: Next.js, React, PHP, Node.js — incluir se necessário)
 
-Clean SASS Architecture — Modular and organized styles
 
-Modern JavaScript — Structured and maintainable code
+⭐ Principais Recursos
+Design Responsivo — Adapta-se perfeitamente a todos os tamanhos de tela
 
-(Optional: Dark mode, animations, form validations, etc.)
+Rolagem e Navegação Suaves
 
-📚 My Skills
+Arquitetura SASS Limpa — Estilos modulares e organizados
+
+JavaScript Moderno — Código estruturado e de fácil manutenção
+
+(Opcional: Modo escuro, animações, validações de formulários, etc.)
+
+
+📚 Minhas Habilidades
 Front-End
 HTML5
 
-CSS3 / SASS
+CSS3
 
 JavaScript (ES6+)
 
-Responsive Layouts
+Layouts Responsivos
 
 Back-End
-(Optional: PHP, MySQL, REST APIs)
+PHP, MySQL, APIs REST
 
-Tools & Frameworks
-(Optional: React, Bootstrap, Node.js, Figma, Git)
+Ferramentas e Frameworks
+React, Bootstrap, Node.js, Figma, Git
 
-(Customize this section based on the actual tools you use.)
 
-🔍 Highlighted Projects
-🛒 Vegan Shop
-A polished e-commerce landing page built using HTML, SASS, and JavaScript. Features responsive design and clean layout.
+🔍 Projetos em Destaque
+🛒 Loja Vegana
+Uma landing page de e-commerce sofisticada, construída com HTML, SASS e JavaScript. Apresenta design responsivo e layout limpo.
 
-🔗 API Collection
-A multi-tool web app using PHP, CSS, Bootstrap that integrates multiple APIs like Google Books, PokeAPI, and CoinGecko.
+🔗 Coleção de APIs
+Um aplicativo web multiferramentas que utiliza PHP, CSS e Bootstrap e integra diversas APIs, como Google Livros, PokeAPI e CoinGecko.
 
-✂️ URL Shortener
-A custom PHP/MySQL-based tool with a Bootstrap interface. It allows users to generate short links and track usage statistics.
+✂️ Encurtador de URL
+Uma ferramenta personalizada baseada em PHP/MySQL com interface Bootstrap. Permite aos usuários gerar links curtos e acompanhar estatísticas de uso.
 
-(Add more projects with 2–3 lines each, only the most relevant ones.)
 
-🚀 Getting Started Locally
-To run this project locally:
+🚀 Começando Localmente
+Para executar este projeto localmente:
 
-# Clone the repository
+# Clonar o repositório
 git clone https://github.com/icaroedu/portfolio.git
 cd portfolio
 
-# Install dependencies (if any)
+# Instalar dependências (se houver)
 npm install
 
-# Run the development server
+# Executar o servidor de desenvolvimento
 npm run start
-✅ Built and deployed with Vercel:
+✅ Construído e implantado com Vercel:
 👉 https://icaro-site.vercel.app
 
 🔗 LinkedIn: in/icaroesr/
 
 🐙 GitHub: @icaroedu
 
-Feel free to get in touch for collaboration, freelance opportunities, or just to say hi!
+Sinta-se à vontade para entrar em contato para colaboração, oportunidades de freelancer ou apenas para dizer oi!
 =======
 # Portfolio-site
 >>>>>>> fab5ad532788dbfa5665e5d4ce6d7018da373dc7
